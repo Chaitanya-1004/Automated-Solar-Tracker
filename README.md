@@ -29,4 +29,6 @@ This project demonstrates the design and simulation of a single-axis automated s
 
 The project successfully demonstrates the integration of CAD design, Python programming, and control system simulation for an automated solar tracking system.
 
+📄 [View Full Report](report/Automated_Solar_Tracker_Report.pdf)
+
 
